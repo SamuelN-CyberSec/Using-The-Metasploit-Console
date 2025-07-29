@@ -6,7 +6,7 @@ Metasploit console enables ethical hackers to simulate real world attack, identi
 - Utilizing search portscan
 - Searching CVE on Metasploit console
 - Setting target host for auxiliary scan 
-- Accessing payload 
+- Accessing payloads 
 - Setting Payloads
 
 
